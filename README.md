@@ -1,4 +1,5 @@
 # Lab Week6 DAD
+## Nurul Izzati Suhaimi B031920001
 
 ## A. Connect with rmi
 
